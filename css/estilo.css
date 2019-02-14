@@ -1,0 +1,167 @@
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Montserrat Bold'), local('Montserrat-Bold'), url(../fonts/Montserrat-Bold.ttf) format('truetype');
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    background: #e3e3e3;
+}
+  
+/* Header */
+
+header {
+    background-image: url(../img/IMG_6665.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: bottom;
+    height: 20rem;
+    align-items: center;
+    text-align: center;
+}
+
+header .cabecalho{
+    padding-top: 130px;
+}
+
+header .cabecalho h1 {
+    display: inline;
+    color: #ecece2;
+    text-transform: uppercase;
+    animation: pulse  0.55s;
+    background-color: #666666;
+    opacity: 0.8;
+    border: 4px double #363636;
+}
+  
+header .cabecalho h1 {
+    margin: 0px;
+    font-size: 1.8em;
+    text-transform: uppercase;
+}
+
+header .input-cabecalho{
+    margin: 105px auto 0;
+}
+
+header .input{
+    border: 1px solid black;
+    height: 35px;
+    border-radius: 290486px;
+    padding-left: 1rem;
+}
+  
+/* main */
+
+#motos{
+    margin: 70px auto 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 1fr;
+    grid-gap: 10px;
+    width: 1000px;
+
+}
+  
+.moto{
+    background: #fff;
+    padding: 10px;
+    text-align: center;
+    height: 200px;
+}
+
+/* footer */
+
+footer {
+    background-color: #222;
+    text-align: center;
+    color: #fff;
+    line-height: 1.3em;
+    margin-top: 50px;
+}
+  
+footer h2 {
+    font-size: 18px;
+    text-transform: uppercase;
+    padding-top: 10px;
+}
+  
+footer p {
+    font-size: 14px;
+    margin: 0;
+}
+  
+footer .redes i {
+    text-align: center;
+    border-radius: 2px;
+    font-size: 22px;
+    padding: 10px;
+    width: 20px;
+    height: 20px;
+    background-color: rgba(255,255,255,.03);
+}
+  
+footer i {
+    color: rgb(255, 255, 255);
+}
+  
+.info-footer {
+    margin: 25px;
+}
+  
+.fa-instagram:hover {
+    color: #f61db7;
+    transition: color 1s;
+}
+  
+.fa-github:hover {
+    color: rgb(165, 168, 167);
+    transition: color 1s;
+}
+  
+.fa-facebook:hover {
+    color: #3b5998;
+    transition: color 1s;
+}
+  
+.fa-address-card:hover {
+    color: #801d1d;
+    transition: color 1s;
+}
+  
+footer .info-ifpb i {
+    padding: 10px;
+}
+  
+footer .copy {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(13, 13, 13);
+}
+
+@media all and (min-width: 700px) {
+    footer {
+      display: grid;
+      grid-template-areas:
+          "sobre redes info-ifpb"
+          "copy copy copy"
+    }
+  
+    .copy {
+      grid-area: copy;
+    }
+  
+}
+  
+@media all and (min-width: 1000px) {
+    footer {
+      grid-template-columns: 40% 30% 30%;
+    }
+}
