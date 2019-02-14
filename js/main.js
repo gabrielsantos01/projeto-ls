@@ -16,7 +16,7 @@ function criaMenu(manipulaJson){
 
 function criarMotos(moto){
     return `<div class="moto">
-        <img src="../img/${moto.Foto}"? width=280>
+        <img src="img/${moto.Foto}"? width=280>
         <p>${moto.Nome}</p>
     </div>`
 }

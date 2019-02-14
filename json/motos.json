@@ -2,7 +2,7 @@
     {
         "Nome": "Pop 110i",
         "Preco": 5.790,
-        "Foto": "IMG_6665.jpg",
+        "Foto": "pop110i.png",
         "Tipo": "OHC, Monocilíndrico, 4 tempos, arrefecido a ar",
         "Cilindrada": "109,1 cc",
         "PotenciaMaxima": "7,9 cv a 7.250 rpm",
@@ -34,7 +34,7 @@
     {
         "Nome": "Biz 110i",
         "Preco": 7.828,
-        "Foto": "pop.png",
+        "Foto": "biz110i.png",
         "Tipo": "OHC, Monocilíndrico, 4 tempos, arrefecido a ar",
         "Cilindrada": "109,1 cc",
         "PotenciaMaxima": "8,33 cv a 7.250 rpm",
@@ -66,7 +66,7 @@
     {
         "Nome": "Biz 125",
         "Preco": 9.686,
-        "Foto": "pop.png",
+        "Foto": "biz125.png",
         "Tipo": "OHC, Monocilíndrico, 4 tempos, arrefecido a ar",
         "Cilindrada": "124,9 cc",
         "PotenciaMaxima": " 9,2 cv a 7.500 rpm",
@@ -98,7 +98,7 @@
     {
         "Nome": "CG 125i Cargo",
         "Preco": 7.165,
-        "Foto": "pop.png",
+        "Foto": "cg125icargo.png",
         "Tipo": "OHC, Monocilíndrico, 4 tempos, arrefecido a ar",
         "Cilindrada": "124,7 cc",
         "PotenciaMaxima": "11,8 cv a 8.500 rpm",
@@ -130,7 +130,7 @@
     {
         "Nome": "CG 125i Fan",
         "Preco": 7.161,
-        "Foto": "pop.png",
+        "Foto": "CG125ifan.png",
         "Tipo": "OHC, Monocilíndrico, 4 tempos, arrefecido a ar",
         "Cilindrada": "124,7 cc",
         "PotenciaMaxima": "11,8 cv a 8.500 rpm",
@@ -162,7 +162,7 @@
     {
         "Nome": "CG 160 Cargo",
         "Preco": 9.490,
-        "Foto": "pop.png",
+        "Foto": "CG160Cargo.png",
         "Tipo": "OHC, Monocilíndrico, 4 tempos, arrefecido a ar",
         "Cilindrada": "162,7 cc",
         "PotenciaMaxima": "14,9 cv a 8.000 rpm (Gasolina) / 15,1 cv a 8.000 rpm (Etanol)",
@@ -194,7 +194,7 @@
     {
         "Nome": "CG 160 Start",
         "Preco": 8.390,
-        "Foto": "pop.png",
+        "Foto": "CG160Start.png",
         "Tipo": "OHC, Monocilíndrico, 4 tempos, arrefecido a ar",
         "Cilindrada": "162,7 cc",
         "PotenciaMaxima": "14,9 cv a 8.000 rpm",
@@ -226,7 +226,7 @@
     {
         "Nome": "CG 160 Fan",
         "Preco": 9.390,
-        "Foto": "pop.png",
+        "Foto": "CG160Fan.png",
         "Tipo": "OHC, Monocilíndrico, 4 tempos, arrefecido a ar",
         "Cilindrada": "162,7 cc",
         "PotenciaMaxima": "14,9 cv a 8.000 rpm (Gasolina) / 15,1 cv a 8.000 rpm (Etanol)",
@@ -258,7 +258,7 @@
     {
         "Nome": "CG 160 Titan",
         "Preco": 10.800,
-        "Foto": "pop.png",
+        "Foto": "CG160titan.png",
         "Tipo": "OHC, Monocilíndrico, 4 tempos, arrefecido a ar",
         "Cilindrada": "162,7 cc",
         "PotenciaMaxima": "14,9 cv a 8.000 rpm (Gasolina) / 15,1 cv a 8.000 rpm (Etanol)",
@@ -290,7 +290,7 @@
     {
         "Nome": "Elite 125",
         "Preco": 8.250,
-        "Foto": "pop.png",
+        "Foto": "elite125.png",
         "Tipo": "OHC, Monocilíndrico, 4 tempos, arrefecido a ar",
         "Cilindrada": "124,9 cc",
         "PotenciaMaxima": "9,34 CV a 7500 rpm",
@@ -322,7 +322,7 @@
     {
         "Nome": "PCX",
         "Preco": 11.272,
-        "Foto": "pop.png",
+        "Foto": "PCX.png",
         "Tipo": "OHC, Monocilíndrico, 4 tempos, arrefecido a líquido",
         "Cilindrada": "149,3 cc",
         "PotenciaMaxima": "13,1 cv a 8.500 rpm",
@@ -354,7 +354,7 @@
     {
         "Nome": "SH 150i DLX",
         "Preco": 12.950,
-        "Foto": "pop.png",
+        "Foto": "SH150i.png",
         "Tipo": "OHC, Monocilíndrico, 4 tempos, arrefecido a líquido",
         "Cilindrada": "149,3 cc",
         "PotenciaMaxima": "14,7 cv a 7.750 rpm",
@@ -386,7 +386,7 @@
     {
         "Nome": "SH 300 i",
         "Preco": 23.590,
-        "Foto": "pop.png",
+        "Foto": "sh300i.png",
         "Tipo": "OHC, Monocilíndrico, 4 tempos, arrefecido a líquido",
         "Cilindrada": "279,1 cc",
         "PotenciaMaxima": "25,9 cv a 7.500 rpm",
@@ -418,7 +418,7 @@
     {
         "Nome": "x-ADV",
         "Preco": 52.500,
-        "Foto": "pop.png",
+        "Foto": "X_Adv.png",
         "Tipo": "OHC, dois cilindros, 4 tempos, arrefecimento líquido",
         "Cilindrada": "745 cc",
         "PotenciaMaxima": "54,8 cv a 6.250 rpm",
@@ -450,7 +450,7 @@
     {
         "Nome": "CB Twister",
         "Preco": 14.990,
-        "Foto": "pop.png",
+        "Foto": "cb-twister.png",
         "Tipo": "OHC, monocilíndrico, 4 tempos, arrefecido a ar",
         "Cilindrada": "249,5 cc",
         "PotenciaMaxima": "22,4 cv a 7.500 rpm (Gasolina) / 22,6 cv a 7.500 rpm (Etanol)",
@@ -482,7 +482,7 @@
     {
         "Nome": "CB500F",
         "Preco": 24.490,
-        "Foto": "pop.png",
+        "Foto": "HondaCb500F.png",
         "Tipo": "DOHC, Dois cilindros, 4 tempos, refrigeração líquida",
         "Cilindrada": "471 cc",
         "PotenciaMaxima": "50,4 cv a 8.500 rpm",
@@ -514,7 +514,7 @@
     {
         "Nome": "CB 650F",
         "Preco": 35.490,
-        "Foto": "pop.png",
+        "Foto": "cb650F.png",
         "Tipo": "DOHC, Quatro cilindros, 4 tempos, refrigeração líquida",
         "Cilindrada": "649 cc",
         "PotenciaMaxima": " 88,5 cv a 11.000 rpm",
@@ -546,7 +546,7 @@
     {
         "Nome": "NXR 160 Bros",
         "Preco": 10.241,
-        "Foto": "pop.png",
+        "Foto": "nxrBros160.png",
         "Tipo": "OHC, monocilíndrico, 4 tempos, arrefecido a ar",
         "Cilindrada": "162,7 cc",
         "PotenciaMaxima": "14,6 cv a 8.500 rpm",
@@ -578,7 +578,7 @@
     {
         "Nome": "NXR 160 Bros ESDD",
         "Preco": 12.250,
-        "Foto": "pop.png",
+        "Foto": "brosESDD.png",
         "Tipo": "OHC, monocilíndrico, 4 tempos, arrefecido a ar",
         "Cilindrada": "162,7 cc",
         "PotenciaMaxima": "14,5 cv a 8.500 rpm (Gasolina) / 14,7 cv a 8.500 rpm (Etanol)",
@@ -610,7 +610,7 @@
     {
         "Nome": "XRE 190 Abs",
         "Preco": 13.925,
-        "Foto": "pop.png",
+        "Foto": "XRE190.png",
         "Tipo": "OHC, monocilíndrico, 4 tempos, arrefecido a ar",
         "Cilindrada": "184,4 cc",
         "PotenciaMaxima": "16,3 cv a 8.500 rpm (Gasolina) / 16,4 cv a 8.500 rpm (Etanol)",
@@ -642,7 +642,7 @@
     {
         "Nome": "XRE 300",
         "Preco": 18.690,
-        "Foto": "pop.png",
+        "Foto": "xre300.png",
         "Tipo": "DOHC, monocilíndrico 4 tempos, arrefecido a ar",
         "Cilindrada": "291,6 cc",
         "PotenciaMaxima": "25,4 cv a 7.500 rpm (Gasolina) / 25,6 cv a 7.500 rpm (Etanol)",
@@ -674,7 +674,7 @@
     {
         "Nome": "CB 500X ABS",
         "Preco": 27.390,
-        "Foto": "pop.png",
+        "Foto": "cb500X.png",
         "Tipo": " DOHC, dois cilindros, 4 tempos, refrigeração líquida",
         "Cilindrada": "471 cc",
         "PotenciaMaxima": "50,4 cv a 8.500 rpm",
@@ -706,7 +706,7 @@
     {
         "Nome": "NC 750X",
         "Preco": 32.990,
-        "Foto": "pop.png",
+        "Foto": "nc750x.png",
         "Tipo": " OHC, dois cilindros, 4 tempos, refrigeração líquida",
         "Cilindrada": "745 cc",
         "PotenciaMaxima": "54,5 cv a 6.250 rpm",
@@ -738,7 +738,7 @@
     {
         "Nome": "CRF 1000L Africa Twin",
         "Preco": 55.990,
-        "Foto": "pop.png",
+        "Foto": "africa_twin.png",
         "Tipo": " OHC, dois cilindros, 4 tempos, arrefecido a líquido",
         "Cilindrada": "999,1 cc",
         "PotenciaMaxima": "90,2 cv a 7.500 rpm",
@@ -770,7 +770,7 @@
     {
         "Nome": "CRF 230F",
         "Preco": 13.450,
-        "Foto": "pop.png",
+        "Foto": "crf230f.png",
         "Tipo": " OHC, monocilíndrico, 4 tempos, arrefecimento a ar",
         "Cilindrada": "230  cc",
         "PotenciaMaxima": "19,3 cv a 8.000 rpm",
@@ -802,7 +802,7 @@
     {
         "Nome": "CRF 250F",
         "Preco": 14.990,
-        "Foto": "pop.png",
+        "Foto": "crf250.png",
         "Tipo": " OHC, monocilíndrico, 4 tempos, arrefecimento a ar",
         "Cilindrada": " 249,58  cc",
         "PotenciaMaxima": "22,2 CV a 7.500 rpm",
@@ -834,7 +834,7 @@
     {
         "Nome": "CRF 250R",
         "Preco": 40.590,
-        "Foto": "pop.png",
+        "Foto": "CRF250R.png",
         "Tipo": "Monocilíndrico, quatro tempos, arrefecimento líquido",
         "Cilindrada": " 249 cc",
         "Transmissao": "5 marchas",
@@ -864,7 +864,7 @@
     {
         "Nome": "CRF 250RX",
         "Preco": 41.990,
-        "Foto": "pop.png",
+        "Foto": "CRF250RX.png",
         "Tipo": "Monocilíndrico, quatro tempos, arrefecimento líquido",
         "Cilindrada": " 249 cc",
         "Transmissao": "5 marchas",
@@ -893,7 +893,7 @@
     {
         "Nome": "CRF 450R",
         "Preco": 43.590,
-        "Foto": "pop.png",
+        "Foto": "CRF450R.png",
         "Tipo": "Monocilíndrico, quatro tempos, arrefecimento líquido",
         "Cilindrada": " 449 cc",
         "Transmissao": "5 marchas",
@@ -921,7 +921,7 @@
     {
         "Nome": "CRF 450RX",
         "Preco": 44.990,
-        "Foto": "pop.png",
+        "Foto": "CRF450RX.png",
         "Tipo": "Monocilíndrico, quatro tempos, arrefecimento líquido",
         "Cilindrada": " 449 cc",
         "Transmissao": "5 marchas",
@@ -949,7 +949,7 @@
     {
         "Nome": "CRF 450X",
         "Preco": 44.590,
-        "Foto": "pop.png",
+        "Foto": "CRF450X.png",
         "Tipo": "Monocilíndrico, quatro tempos, arrefecimento líquido",
         "Cilindrada": " 449 cc",
         "Transmissao": "6 marchas",
@@ -978,7 +978,7 @@
     {
         "Nome": "TRX 420 FourTrax",
         "Preco": 27.393,
-        "Foto": "pop.png",
+        "Foto": "trx420_fourtrax.png",
         "Tipo": "OHV, monocilíndrico, 4 tempos, refrigeração líquida",
         "Cilindrada": "420 cc",
         "Potência Máxima": "26,9 cv a 6.250 rpm",
@@ -1010,7 +1010,7 @@
     {
         "Nome": "CBR 500R",
         "Preco": 24.900,
-        "Foto": "pop.png",
+        "Foto": "CBR500R.png",
         "Tipo": "DOHC, Dois cilindros, 4 tempos, refrigeração líquida",
         "Cilindrada": "471 cc",
         "PotenciaMaxima": "50,4 cv a 8.500 rpm",
@@ -1042,7 +1042,7 @@
     {
         "Nome": "CBR 650F",
         "Preco": 36.990,
-        "Foto": "pop.png",
+        "Foto": "cbr650F.png",
         "Tipo": "DOHC, Quatro cilindros, 4 tempos, refrigeração líquida",
         "Cilindrada": "649 cc",
         "PotenciaMaxima": "88,5 cv a 11.000 rpm",
@@ -1074,7 +1074,7 @@
     {
         "Nome": "CBR 1000RR Fireblade",
         "Preco": 79.900,
-        "Foto": "pop.png",
+        "Foto": "CBR1000RR.png",
         "Tipo": "DOHC, Quatro cilindros, 4 tempos, arrefecimento  líquido",
         "Cilindrada": "999,8 cc",
         "PotenciaMaxima": "191,7 cv a 13000 rpm",
@@ -1102,5 +1102,69 @@
         "FreioTraseiro/Diametro": "A disco / 220 mm",
         "PneuDianteiro": "120/70 - ZR17M/C (58W)",
         "PneuTraseiro": "190/50 - ZR17M/C (73W)"
+    },
+    {
+        "Nome": "GL 1800 Gold Wing Tour",
+        "Preco": 156.550,
+        "Foto": "Goldwing_tour.png",
+        "Tipo": "OHC, seis cilindros 4 tempos, arrefecimento líquido",
+        "Cilindrada": "1.833 cc",
+        "PotenciaMaxima": "126 cv a 5.500 rpm",
+        "TorqueMaximo": "17,3kgf.m a 4.500 rpm",
+        "Transmissao": "7 velocidades (câmbio DCT)",
+        "SistemadePartida": "Elétrico",
+        "Diametro_x_Curso": "73,0 x 73,0 mm",
+        "RelacaodeCompressao": "10,5:1",
+        "SistemaAlimentacao": "Injeção Eletrônica PGM FI",
+        "Combustivel": "Gasolina",
+        "Ignicao": "Eletrônica",
+        "Bateria": "12V - 20 Ah (10H)",
+        "Farol": "LED",
+        "TanqueDeCombustivel": "21 litros",
+        "OleoDoMotor": "5,6 litros",
+        "Comprimento_x_Largura_x_Altura": "2.575 x 905 x 1.430 mm",
+        "DistanciaEntreEixos": "1.695 mm",
+        "DistanciaMinimaDoSolo": "130 mm",
+        "AlturaDoAssento": "745 mm",
+        "PesoSeco": "369 kg",
+        "Tipo": "Diamond Twin Tube Type",
+        "SuspensaoDianteira/Curso": "Duplo Braço Oscilante / 110 mm",
+        "SuspensaoTraseira/Curso": "Pro-Link / 105 mm",
+        "FreioDianteiro/Diametro": "A disco / 320 mm",
+        "FreioTraseiro/Diametro": "A disco / 316 mm",
+        "PneuDianteiro": "130/70 - 18",
+        "PneuTraseiro": "200/55 - 16"
+    },
+    {
+        "Nome": "GL 1800 Gold Wing",
+        "Preco": 136.550,
+        "Foto": "Goldwing.png",
+        "Tipo": "OHC, seis cilindros 4 tempos, arrefecimento líquido",
+        "Cilindrada": "1.833 cc",
+        "PotenciaMaxima": "126 cv a 5.500 rpm",
+        "TorqueMaximo": "17,3kgf.m a 4.500 rpm",
+        "Transmissao": "6 velocidades",
+        "SistemadePartida": "Elétrico",
+        "Diametro_x_Curso": "73,0 x 73,0 mm",
+        "RelacaodeCompressao": "10,5:1",
+        "SistemaAlimentacao": "Injeção Eletrônica PGM FI",
+        "Combustivel": "Gasolina",
+        "Ignicao": "Eletrônica",
+        "Bateria": "12V - 20 Ah (10H)",
+        "Farol": "LED",
+        "TanqueDeCombustivel": "21 litros",
+        "OleoDoMotor": "4,4 litros",
+        "Comprimento_x_Largura_x_Altura": "2.475 x 925 x 1.340 mm",
+        "DistanciaEntreEixos": "1.695 mm",
+        "DistanciaMinimaDoSolo": "130 mm",
+        "AlturaDoAssento": "745 mm",
+        "PesoSeco": "348 kg",
+        "Tipo": "Diamond Twin Tube Type",
+        "SuspensaoDianteira/Curso": "Duplo Braço Oscilante / 110 mm",
+        "SuspensaoTraseira/Curso": "Pro-Link / 105 mm",
+        "FreioDianteiro/Diametro": "A disco / 320 mm",
+        "FreioTraseiro/Diametro": "A disco / 316 mm",
+        "PneuDianteiro": "130/70 - 18",
+        "PneuTraseiro": "200/55 - 16"
     }
 ]
