@@ -75,7 +75,14 @@ header .input{
     padding: 10px;
     text-align: center;
     height: 200px;
+    width: 300px;
 }
+
+.moto:hover{
+    cursor: pointer;
+    
+}
+
 
 /* footer */
 
