@@ -4,13 +4,6 @@ let manipulaJson
 let nove = 9
 let maisNove = 9
 
-window.addEventListener('scroll', () => {
-    if((window.scrollY + window.innerHeight) / document.body.scrollHeight >= 0.99){
-        nove += maisNove
-        criaMenu(manipulaJson)
-    }
-})
-
 fetch('json/motos.json')
     .then(res => res.json())
     .then(json => {
@@ -20,7 +13,7 @@ fetch('json/motos.json')
 
 function criaMenu(manipulaJson){
     main.innerHTML = ''
-    const menu = manipulaJson.slice(0, seis).map(e => criarMotos(e)).join('')
+    const menu = manipulaJson.slice(0, nove).map(e => criarMotos(e)).join('')
     main.insertAdjacentHTML('beforeend', menu)
     
 }
@@ -43,7 +36,12 @@ function filtraMotos(nomeMotos){
     criaMenu(filtro)
 }
 
-
+window.addEventListener('scroll', () => {
+    if((window.scrollY + window.innerHeight) / document.body.scrollHeight >= 0.99){
+        nove += maisNove
+        criaMenu(manipulaJson)
+    }
+})
 
 
 
