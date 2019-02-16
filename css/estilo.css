@@ -59,6 +59,11 @@ header .input{
 }
   
 /* main */
+main h2{
+    display: flex;
+    justify-content: center;
+    width: 1000px;
+}
 
 #motos{
     margin: 70px auto 0;
@@ -74,11 +79,11 @@ header .input{
     background: #fff;
     padding: 10px;
     text-align: center;
-    height: 200px;
+    height: 300px;
     width: 300px;
 }
 
-.moto:hover{
+.motoEdite:hover{
     cursor: pointer;
     
 }

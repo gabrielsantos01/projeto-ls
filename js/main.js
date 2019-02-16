@@ -20,22 +20,31 @@ function criaMenu(manipulaJson){
 
 function criarMotos(moto){
     return `<div class="moto">
-        <img src="img/${moto.Foto}"? width=280>
+        <img class="motoEdite" src="img/${moto.Foto}"? width=280>
         <p>${moto.Nome}</p>
     </div>`
 }
 
-input.addEventListener('keyup', () => {
-    filtraMotos(input.value) 
+input.addEventListener('keyup', (event) => {
+    const regex = /^[A-Za-z]+$|^[A-Za-z]+\s[A-Za-z]+$|^[A-Za-z]+\s(\d)+$|^[A-Za-z]+\s(\d)+\s?[A-Za-z]+/g
+    if(event.key == "Enter"){
+        if(regex.test(input.value)){
+            filtraMotos(input.value.toLowerCase())
+        }else{
+            main.innerHTML = `<h2>Nome escrito incorretamente, tente novamente!</h2>`
+        }
+    }
+    if(input.value == ""){
+        filtraMotos(input.value)
+    }
 })
 
 function filtraMotos(nomeMotos){
     const filtro = manipulaJson.filter(e => {
-        return nomeMotos == e.Nome.slice(0, nomeMotos.length)
+        return nomeMotos == e.Nome.slice(0, nomeMotos.length).toLowerCase()
     })
     criaMenu(filtro)
 }
-
 
 
 

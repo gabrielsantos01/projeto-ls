@@ -544,7 +544,7 @@
         "PneuTraseiro": "160/60 - 17M/C"
     },
     {
-        "Nome": "NXR 160 Bros",
+        "Nome": "Bros 160",
         "Preco": 10.241,
         "Foto": "nxrBros160.png",
         "Tipo": "OHC, monocilíndrico, 4 tempos, arrefecido a ar",
@@ -576,7 +576,7 @@
         "PneuTraseiro": "110/90 - 17M/C"
     },
     {
-        "Nome": "NXR 160 Bros ESDD",
+        "Nome": "Bros 160 ESDD",
         "Preco": 12.250,
         "Foto": "brosESDD.png",
         "Tipo": "OHC, monocilíndrico, 4 tempos, arrefecido a ar",
@@ -736,7 +736,7 @@
         "PneuTraseiro": "160/60 - 17"
     },
     {
-        "Nome": "CRF 1000L Africa Twin",
+        "Nome": "Africa Twin",
         "Preco": 55.990,
         "Foto": "africa_twin.png",
         "Tipo": " OHC, dois cilindros, 4 tempos, arrefecido a líquido",
