@@ -26,12 +26,12 @@ function criarMotos(moto){
 }
 
 input.addEventListener('keyup', () => {
-    filtraMotos(input.value.split('')) 
+    filtraMotos(input.value) 
 })
 
 function filtraMotos(nomeMotos){
     const filtro = manipulaJson.filter(e => {
-        return nomeMotos.join('') == e.Nome.split('').slice(0, nomeMotos.length).join('')
+        return nomeMotos == e.Nome.slice(0, nomeMotos.length)
     })
     criaMenu(filtro)
 }
