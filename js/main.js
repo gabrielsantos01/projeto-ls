@@ -13,7 +13,7 @@ fetch('json/motos.json')
 
 function criaMenu(manipulaJson){
     main.innerHTML = ''
-    const menu = manipulaJson.slice(0, nove).map(e => criarMotos(e)).join('')
+    const menu = manipulaJson.map(e => criarMotos(e)).join('')
     main.insertAdjacentHTML('beforeend', menu)
     
 }
@@ -26,22 +26,15 @@ function criarMotos(moto){
 }
 
 input.addEventListener('keyup', () => {
-    filtraMotos(input.value)
+    filtraMotos(input.value.split('')) 
 })
 
 function filtraMotos(nomeMotos){
     const filtro = manipulaJson.filter(e => {
-        return e.Nome == nomeMotos
+        return nomeMotos.join('') == e.Nome.split('').slice(0, nomeMotos.length).join('')
     })
     criaMenu(filtro)
 }
-
-window.addEventListener('scroll', () => {
-    if((window.scrollY + window.innerHeight) / document.body.scrollHeight >= 0.99){
-        nove += maisNove
-        criaMenu(manipulaJson)
-    }
-})
 
 
 
