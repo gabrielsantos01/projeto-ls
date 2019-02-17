@@ -79,27 +79,40 @@ main h2{
     background: #fff;
     padding: 10px;
     text-align: center;
-    height: 300px;
-    width: 300px;
+
+}
+
+.moto:hover .motoEdite{
+    width: 285px;
+    transition: all 1.0s;
 }
 
 .motoEdite:hover{
     cursor: pointer;
-    
 }
 
 
 /* footer */
 
 footer {
-    background-color: #222;
+    background-color: #801d1d;
     text-align: center;
-    color: #fff;
+    color: black;
     line-height: 1.3em;
     margin-top: 50px;
 }
-  
-footer h2 {
+
+.rodape{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+}
+
+.conteudo-rodape{
+    margin: 20px;
+}
+
+footer h3 {
     font-size: 18px;
     text-transform: uppercase;
     padding-top: 10px;
@@ -109,23 +122,10 @@ footer p {
     font-size: 14px;
     margin: 0;
 }
-  
-footer .redes i {
-    text-align: center;
-    border-radius: 2px;
-    font-size: 22px;
-    padding: 10px;
-    width: 20px;
-    height: 20px;
-    background-color: rgba(255,255,255,.03);
-}
-  
-footer i {
-    color: rgb(255, 255, 255);
-}
-  
-.info-footer {
-    margin: 25px;
+
+footer .icones i{
+    font-size: 40px;
+    margin-right: 20px;
 }
   
 .fa-instagram:hover {
@@ -133,47 +133,22 @@ footer i {
     transition: color 1s;
 }
   
-.fa-github:hover {
-    color: rgb(165, 168, 167);
+.fa-twitter-square:hover {
+    color: rgb(58, 211, 231);
     transition: color 1s;
 }
   
 .fa-facebook:hover {
-    color: #3b5998;
+    color: #1157ec;
     transition: color 1s;
 }
   
-.fa-address-card:hover {
-    color: #801d1d;
+.fa-linkedin:hover {
+    color: #ec0c0c;
     transition: color 1s;
 }
   
-footer .info-ifpb i {
-    padding: 10px;
-}
-  
-footer .copy {
-    margin: 0;
-    padding: 0;
-    background-color: rgb(13, 13, 13);
-}
-
-@media all and (min-width: 700px) {
-    footer {
-      display: grid;
-      grid-template-areas:
-          "sobre redes info-ifpb"
-          "copy copy copy"
-    }
-  
-    .copy {
-      grid-area: copy;
-    }
-  
-}
-  
-@media all and (min-width: 1000px) {
-    footer {
-      grid-template-columns: 40% 30% 30%;
-    }
+.fim-rodape{
+    background-color: black;
+    color: whitesmoke;
 }
