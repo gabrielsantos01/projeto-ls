@@ -23,7 +23,7 @@ function criarMotos(moto){
 // validação do elemento através do regex 
 function filtrando(){
     input.addEventListener('keyup', (event) => {
-        const regex = /^[A-Za-z]+\s?$|^[A-Za-z]+\s[A-Za-z]+$|^[A-Za-z]+\s(\d)+$|^[A-Za-z]+\s(\d)+\s?[A-Za-z]+/g
+        const regex = /^[A-Za-z]+\s?$|^[A-Za-z]+\s[A-Za-z]+$|^[A-Za-z]+\s?(\d)+$|^[A-Za-z]+\s(\d)+\s?[A-Za-z]+/g
         if(event.key == "Enter"){
             if(regex.test(input.value)){
                 // chamada da função para a filtragem do elemento
