@@ -2,6 +2,10 @@ Descrição do projeto
  
   Projeto desenvolvido na disciplina de Linguagem Script (JavaScript) que realiza a busca de motos através do seu nome.
   
+Requisitos mínimos
+
+  Um computador com acesso a internet
+  
 Inspirações
 
   Site da Honda
